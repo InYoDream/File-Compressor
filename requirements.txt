@@ -1,5 +1,2 @@
-streamlit
-os 
-heapq
-bitstring
-base64
+bitstring==4.1.1
+streamlit==1.17.0
