@@ -1,0 +1,5 @@
+streamlit
+os 
+heapq
+bitstring
+base64
